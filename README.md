@@ -1,2 +1,2 @@
 # HarmoniMix
-A music player app!
+A music player app! 💽🎼🎶🎵
